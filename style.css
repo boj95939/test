@@ -1,0 +1,11 @@
+div {
+    color: red;
+    font-size: 5rem;
+    background-color: rgba(255, 0, 234, 0.582);
+    width: calc(100% /3);
+/*     margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-right: 0px; */
+    margin: 100px 0 50px 100px;
+}
